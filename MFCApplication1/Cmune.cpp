@@ -217,7 +217,7 @@ BOOL Cmune::OnInitDialog()//初始化
 	m_combo1.InsertString(7, _T("英语成绩"));
 
 
-
+	
 	m_combo2.InsertString(0, _T("高数成绩"));
 	m_combo2.InsertString(1, _T("实训成绩"));
 	m_combo2.InsertString(2, _T("英语成绩"));
